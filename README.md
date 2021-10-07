@@ -1,6 +1,6 @@
-# Title Project
+# Project Title
 
-## Information Project
+## Project Information
 ---------------------
 
 ## Quick Start :clock10:
